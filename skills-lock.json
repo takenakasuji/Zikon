@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "baseline-ui": {
+      "source": "ibelick/ui-skills",
+      "sourceType": "github",
+      "skillPath": "skills/baseline-ui/SKILL.md",
+      "computedHash": "49817c981208de2f412719f7814d31eba2b2096462edc048a279d93f522cab0f"
+    },
+    "redesign-existing-projects": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "skillPath": "skills/redesign-skill/SKILL.md",
+      "computedHash": "b405eee0e0e80fc243f731d9aa368bca307e356db7e6157d27101d369dac6726"
+    }
+  }
+}
